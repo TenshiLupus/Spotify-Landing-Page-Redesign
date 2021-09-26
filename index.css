@@ -41,4 +41,13 @@
     }
   }
   
+  .home-page-circle{
+    position: absolute;
+    width: 25vw;
+    height: 25vw;
+    border-radius: 50%;
+    background-color: red;
+    bottom: 5vw;
+    left: 5vw;
+  }
   
